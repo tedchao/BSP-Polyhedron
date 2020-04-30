@@ -1,5 +1,5 @@
 # BSP-Polyhedron
 
-Date: 2019/11
-Place: Georgia Tech
+Date: 2019/11 <\br>
+Place: Georgia Tech <\br>
 Arthurs: Ted Chao, Jacob Kim 
