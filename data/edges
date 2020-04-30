@@ -1,0 +1,6 @@
+ID  ID_of_vertices  ne:5  ID_of_planes   0=convex, 1=concave, 2=on solid(mixed), 3=not on solid
+0: 0 0;  0 0;  0
+1: 0 0;  0 0;  0
+2: 0 0;  0 0;  0
+3: 0 0;  0 0;  0
+4: 0 0;  0 0;  0
